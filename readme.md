@@ -3,7 +3,7 @@
 
 
 ## Dataset
-> We will investigate **Ford GoBike System Dataset**, assess its quality and tidiness, then clean it which called data wrangling. 
+> We will investigate  **Ford GoBike System Dataset**, assess its quality and tidiness, then clean it which called data wrangling. 
 
 >**Ford GoBike System Dataset**  includes information about individual rides made
 in a bike-sharing system covering the greater San Francisco Bay area.
